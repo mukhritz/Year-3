@@ -1,4 +1,4 @@
-# Academic and Professional Learning Reflections
+# Academic Portfolios & Learning Reflections
 ## Course: Special Topic in Data Engineering (SECP3843)
 
 ---
@@ -7,13 +7,13 @@
 
 The collaborative presentation on the Data Engineering Lifecycle provided an all-encompassing breakdown of how data moves and evolves within an enterprise architecture. This milestone deeply clarified the distinct mechanics governing each lifecycle phase—stretching from raw data generation and ingest frameworks to structured storage, programmatic transformation, and downstream consumption. Additionally, exploring the critical "undercurrents" highlighted the importance of foundational security protocols, data governance policies, orchestration engines, systemic scalability, and holistic management.
 
-Developing and presenting this technical material emphasized that data engineering goes far beyond simple pipeline construction; it demands continuous attention to system reliability, code maintainability, and data quality. On a personal level, this academic exercise significantly sharpened my technical communication skills, training me to articulate complex backend paradigms into digestible insights for non-technical stakeholders. Ultimately, this presentation laid down a robust framework for understanding my future obligations as a engineer tasked with building dependable, enterprise-scale data ecosystems.
+Developing and presenting this technical material emphasized that data engineering goes far beyond simple pipeline construction; it demands continuous attention to system reliability, code maintainability, and data quality. On a personal level, this academic exercise significantly sharpened my technical communication skills, training me to articulate complex backend paradigms into digestible insights for non-technical stakeholders. Ultimately, this presentation laid down a robust framework for understanding my future obligations as an engineer tasked with building dependable, enterprise-scale data ecosystems.
 
 ---
 
 ### 📝 Technical Report – Reflection
 
-Compiling the technical report on Data Architecture offered deep exposure into how enterprise data infrastructures have adapted over time to support modern, data-driven strategies. By comparing historical data warehouse platforms with progressive paradigms like the Data Lakehouse, I gained a clearer grasp of how leading organizations systematically tackle the high-velocity ingestion, processing, and serving of massive analytical datasets.
+Compiling the technical report on Data Architecture offered deep exposure to how enterprise data infrastructures have adapted over time to support modern, data-driven strategies. By comparing historical data warehouse platforms with progressive paradigms like the Data Lakehouse, I gained a clearer grasp of how leading organizations systematically tackle the high-velocity ingestion, storage, processing, and serving of massive analytical datasets.
 
 The rigorous process of conducting academic literature reviews and drafting the final manuscript notably refined my research methodology and scientific writing style. Furthermore, the investigation brought forward the clear real-world frictions inherent to big data setups—most notably escalating infrastructure overhead, regulatory compliance hurdles, and architectural complexity. This exercise reinforced a critical lesson: successful engineering requires aligning technical choices with business objectives while maintaining strict data governance frameworks.
 
